@@ -1,0 +1,48 @@
+baseURL: "www.playerone.com"
+languageCode: en-us
+title: Vinayak S Nair 
+useFullWidth: true
+theme: ["PaperMod"]
+
+
+params:
+# To add path 
+  ShowBreadCrumbs: true
+# Showing share button 
+  ShowShareButtons: true
+# Table of content but yet to figure out how to use it 
+  ShowToc: true
+
+  profileMode:
+    enabled: true
+    title: "Hello There! 👋" 
+    subtitle: "Welcome to my corner of the internet! I’m a 23-year-old guy, and here I share my thoughts on the things I’m passionate about—gaming, tech, and riding bikes. When I’m not leveling up in a game, tinkering with gadgets, or hitting the road on my bike, I might just be asleep (but who’s counting?)."
+ 
+# To allow HTML tags
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+   
+
+menu:
+  main:
+      - identifier: posts
+        name: Posts
+        url: /posts/
+        weight: 10
+
+      - identifier: photos
+        name: Photos
+        url: /photos/
+        weight: 20
+
+      - identifier: about
+        name: About
+        url: /about/
+        weight: 25
+
+      
+
+  
+
