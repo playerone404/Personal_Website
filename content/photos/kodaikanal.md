@@ -13,5 +13,4 @@ weight: 150
 
 ![Kodaikanal view 4](/Kodaikanal/image2.webp)
 
-![Kodaikanal view 5](/Kodaikanal/image6.webp)
-This has to be one of the best views   
+![Kodaikanal view 5](/Kodaikanal/image6.webp)   
