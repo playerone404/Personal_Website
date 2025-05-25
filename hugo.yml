@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     title: "Hello There! 👋" 
-    subtitle: "Welcome to my corner of the internet! I’m a 23-year-old guy, and here I share my thoughts on the things I’m passionate about—gaming, tech, and riding bikes. When I’m not leveling up in a game, tinkering with gadgets, or hitting the road on my bike, I might just be asleep (but who’s counting?)."
+    subtitle: "Welcome to my corner of the internet!"
  
 # To allow HTML tags
 markup:
