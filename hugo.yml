@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     title: "Hello There! 👋" 
-    subtitle: "Welcome to my corner of the internet!"
+    subtitle: "Welcome to my spot on the web! A chill place to explore my projects, thoughts, and gaming passion."
  
 # To allow HTML tags
 markup:
