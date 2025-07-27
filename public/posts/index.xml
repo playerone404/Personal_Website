@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Vinayak S Nair</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Vinayak S Nair</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 May 2025 17:28:31 +0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech for 2025</title>
+      <link>http://localhost:1313/posts/tech-for-2025/</link>
+      <pubDate>Fri, 02 May 2025 20:53:39 +0530</pubDate>
+      <guid>http://localhost:1313/posts/tech-for-2025/</guid>
+      <description>&lt;p&gt;Tech in hand are pretty much same as last years&lt;/p&gt;
+&lt;p&gt;Laptop&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;m running Fedora 42 on an HP Pavilion 15ec with an AMD Ryzen 5 3550H and an NVIDIA GTX 1650.&lt;/li&gt;
+&lt;li&gt;I’ve got Windows set up as a dual boot, but it just sits there. I mean, who wants to use Windows when you’ve got the mighty penguin?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Phone&lt;/p&gt;
+&lt;p&gt;A Samsung Galaxy S21FE.&lt;/p&gt;
+&lt;p&gt;Eraphones&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.headphonezone.in/products/kz-castor?_pos=1&amp;amp;_sid=fce079ded&amp;amp;_ss=r&amp;amp;variant=42933943206076&#34;&gt;KZ Castor&lt;/a&gt; Bass Edition and &lt;a href=&#34;https://www.headphonezone.in/products/fiio-x-jade-audio-ja11?_pos=2&amp;amp;_psq=fiio+x+jade&amp;amp;_ss=e&amp;amp;_v=1.0&#34;&gt;FIIO X Jade Audio JA11&lt;/a&gt; DAC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guide for CCNA</title>
+      <link>http://localhost:1313/posts/guide-for-ccna/</link>
+      <pubDate>Sun, 25 May 2025 17:28:31 +0400</pubDate>
+      <guid>http://localhost:1313/posts/guide-for-ccna/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

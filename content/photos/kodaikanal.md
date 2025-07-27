@@ -1,8 +1,7 @@
 ---
-date: '2025-05-04T00:47:38+05:30'
+date: '2025-05-04'
 draft: false
 title: 'Kodaikanal'
-weight: 150
 ---
 
 ![kodekanal view 1](/Kodaikanal/image5.webp)

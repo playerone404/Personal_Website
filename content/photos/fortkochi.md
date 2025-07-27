@@ -1,8 +1,7 @@
 ---
-date: '2025-05-05T08:53:51+05:30'
+date: '2025-05-05'
 draft: false
 title: 'Fort kochi'
-weight: 100
 ---
 
 
